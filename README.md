@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiXuang12
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning on Php native and Framework
+- 🌱 I’m currently learning on Php native, Laravel Framework, html, css, and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DM me 
 
